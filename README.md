@@ -1,2 +1,1 @@
-# sotech
 # pamphi
