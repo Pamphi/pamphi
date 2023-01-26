@@ -765,7 +765,6 @@ section.main-banner {
 }
 
 .main-banner .right-image {
-  margin-left: 120px;
   position: relative;
   z-index: 2;
 }
