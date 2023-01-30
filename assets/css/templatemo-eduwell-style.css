@@ -776,7 +776,7 @@ section.main-banner {
 
 .main-banner .right-image::after {
   position: absolute;
-  background-image: url(../images/cicularpunteado.png);
+  background-image: url(../images/blob3.svg);
   width: 378px;
   height: 378px;
   content: "";
